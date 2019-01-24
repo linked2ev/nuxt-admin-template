@@ -1,14 +1,14 @@
-## description
+## description  
 ---
 
 - Nuxt&Vuetify Admin Template Customizing
-- Nuxt, SPA, Auth, PWA
+- Nuxt, SPA, SSR, Auth, PWA
 - ESLint, Prettier
 
 <br>
 
 
-## install package
+## install package  
 ---
 
 ```
@@ -25,7 +25,7 @@ $ npm install @nuxtjs/pwa --save-dev
 <br>
 
 
-## build for production and launch server
+## build for production and launch server  
 ---
 
 ```
@@ -36,7 +36,7 @@ $ npm start
 <br>
 
 
-## visual-studio plugin
+## visual-studio plugin  
 ---
 
 Vue 2 Snippets   
@@ -52,10 +52,7 @@ Sass
 <br>
 
 
-<br>
-
-
-## posting blog
+## posting blog  
 ---
 
 [https://linked2ev.github.io/tag/devlog-nuxt/](https://linked2ev.github.io/tag/devlog-nuxt/)
